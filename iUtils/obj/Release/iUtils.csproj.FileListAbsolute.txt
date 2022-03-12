@@ -1,0 +1,9 @@
+E:\Repository\DS.Revit.Utils\iUtils\bin\Release\iUtils.dll
+E:\Repository\DS.Revit.Utils\iUtils\bin\Release\iUtils.pdb
+E:\Repository\DS.Revit.Utils\iUtils\bin\Release\Newtonsoft.Json.dll
+E:\Repository\DS.Revit.Utils\iUtils\bin\Release\Newtonsoft.Json.xml
+E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.csproj.AssemblyReference.cache
+E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.csproj.CoreCompileInputs.cache
+E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.csproj.CopyComplete
+E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.dll
+E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.pdb

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DS.RevitLib.Utils.External
+namespace Ivanov.RevitLib.Utils
 {
     public static class IvanovUtils
     {

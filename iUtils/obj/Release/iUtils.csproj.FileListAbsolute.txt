@@ -7,3 +7,10 @@ E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.csproj.CoreCompileInputs.
 E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.csproj.CopyComplete
 E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.dll
 E:\Repository\DS.Revit.Utils\iUtils\obj\Release\iUtils.pdb
+e:\Repository\VAR.RevitLib.Utils\iUtils\bin\Release\iUtils.dll
+e:\Repository\VAR.RevitLib.Utils\iUtils\bin\Release\iUtils.pdb
+e:\Repository\VAR.RevitLib.Utils\iUtils\bin\Release\Newtonsoft.Json.dll
+e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.csproj.CoreCompileInputs.cache
+e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.csproj.CopyComplete
+e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.dll
+e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.pdb

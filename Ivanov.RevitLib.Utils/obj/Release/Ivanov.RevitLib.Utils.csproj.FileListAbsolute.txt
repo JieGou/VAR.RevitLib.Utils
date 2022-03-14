@@ -1,0 +1,10 @@
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\bin\Release\Ivanov.RevitLib.Utils.dll
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\bin\Release\Ivanov.RevitLib.Utils.pdb
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\bin\Release\iUtils.dll
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\bin\Release\Newtonsoft.Json.dll
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\bin\Release\iUtils.pdb
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\bin\Release\Newtonsoft.Json.xml
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.csproj.CoreCompileInputs.cache
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.csproj.CopyComplete
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.dll
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.pdb

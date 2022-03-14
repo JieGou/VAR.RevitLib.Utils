@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iUtils", "iUtils\iUtils.csproj", "{9B6AC69E-D362-4B7E-A1AC-35EE89CF5D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivanov.RevitLib.Utils", "Ivanov.RevitLib.Utils\Ivanov.RevitLib.Utils.csproj", "{7381DCE4-FD1C-46B7-B49D-88506504571C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B6AC69E-D362-4B7E-A1AC-35EE89CF5D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6AC69E-D362-4B7E-A1AC-35EE89CF5D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6AC69E-D362-4B7E-A1AC-35EE89CF5D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6AC69E-D362-4B7E-A1AC-35EE89CF5D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C258100-6F95-4D1B-872D-B39151B6298A}
+	EndGlobalSection
+EndGlobal

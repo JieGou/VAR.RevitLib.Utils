@@ -1,0 +1,2 @@
+e:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils2022.csproj.AssemblyReference.cache
+e:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils2022.csproj.CoreCompileInputs.cache

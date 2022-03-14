@@ -1,2 +1,4 @@
 E:\Repository\Olimproekt\iUtils2022\obj\Debug\iUtils2022.csproj.AssemblyReference.cache
 E:\Repository\Olimproekt\iUtils2022\obj\Debug\iUtils2022.csproj.CoreCompileInputs.cache
+e:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Debug\iUtils2022.csproj.AssemblyReference.cache
+e:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Debug\iUtils2022.csproj.CoreCompileInputs.cache

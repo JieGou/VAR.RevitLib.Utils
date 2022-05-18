@@ -14,3 +14,4 @@ e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.csproj.CoreCompileInp
 e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.csproj.CopyComplete
 e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.dll
 e:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.pdb
+E:\Repository\VAR.RevitLib.Utils\iUtils\obj\Release\iUtils.csproj.AssemblyReference.cache

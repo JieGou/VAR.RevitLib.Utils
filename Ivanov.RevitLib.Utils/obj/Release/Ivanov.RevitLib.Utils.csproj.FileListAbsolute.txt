@@ -8,3 +8,4 @@ E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitL
 E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.csproj.CopyComplete
 E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.dll
 E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.pdb
+E:\Repository\VAR.RevitLib.Utils\Ivanov.RevitLib.Utils\obj\Release\Ivanov.RevitLib.Utils.csproj.AssemblyReference.cache

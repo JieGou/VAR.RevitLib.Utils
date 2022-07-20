@@ -207,14 +207,14 @@ namespace Ivanov.RevitLib.Utils
             return (projects.First().XYZPoint, projects.Last().XYZPoint);
         }
        
-        private static bool IsPointInElementBB(XYZ point, Element e)
+        public static bool IsPointInElementBB(XYZ point, Element e)
         {
             var bb = e.get_BoundingBox(null);
             if (bb == null) return false;
             return IsPointInElementBB(point, bb);
         }
 
-        private static bool IsPointInElementBB(XYZ point, BoundingBoxXYZ bb)
+        public static bool IsPointInElementBB(XYZ point, BoundingBoxXYZ bb)
         {
             if (point.X >= bb.Min.X && point.Y >= bb.Min.Y && point.Z >= bb.Min.Z
                       && point.X < bb.Max.X && point.Y < bb.Max.Y && point.Z < bb.Max.Z)

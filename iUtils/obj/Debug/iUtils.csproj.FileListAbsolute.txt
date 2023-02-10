@@ -22,3 +22,10 @@ E:\Repository\DS.Revit.Utils\iUtils\obj\Debug\iUtils.csproj.CoreCompileInputs.ca
 E:\Repository\DS.Revit.Utils\iUtils\obj\Debug\iUtils.csproj.CopyComplete
 E:\Repository\DS.Revit.Utils\iUtils\obj\Debug\iUtils.dll
 E:\Repository\DS.Revit.Utils\iUtils\obj\Debug\iUtils.pdb
+E:\Repository\VAR.RevitLib.Utils\iUtils\bin\Debug\iUtils.dll
+E:\Repository\VAR.RevitLib.Utils\iUtils\bin\Debug\iUtils.pdb
+E:\Repository\VAR.RevitLib.Utils\iUtils\obj\Debug\iUtils.csproj.AssemblyReference.cache
+E:\Repository\VAR.RevitLib.Utils\iUtils\obj\Debug\iUtils.csproj.CoreCompileInputs.cache
+E:\Repository\VAR.RevitLib.Utils\iUtils\obj\Debug\iUtils.csproj.CopyComplete
+E:\Repository\VAR.RevitLib.Utils\iUtils\obj\Debug\iUtils.dll
+E:\Repository\VAR.RevitLib.Utils\iUtils\obj\Debug\iUtils.pdb

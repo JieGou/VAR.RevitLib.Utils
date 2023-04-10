@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32106.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iUtils", "iUtils\iUtils.csproj", "{9B6AC69E-D362-4B7E-A1AC-35EE89CF5D6F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivanov.RevitLib.Utils", "Ivanov.RevitLib.Utils\Ivanov.RevitLib.Utils.csproj", "{7381DCE4-FD1C-46B7-B49D-88506504571C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iUtils2022", "iUtils2022\iUtils2022.csproj", "{8121B07B-1086-4987-B3EC-ACE465048367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7381DCE4-FD1C-46B7-B49D-88506504571C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8121B07B-1086-4987-B3EC-ACE465048367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8121B07B-1086-4987-B3EC-ACE465048367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8121B07B-1086-4987-B3EC-ACE465048367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8121B07B-1086-4987-B3EC-ACE465048367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

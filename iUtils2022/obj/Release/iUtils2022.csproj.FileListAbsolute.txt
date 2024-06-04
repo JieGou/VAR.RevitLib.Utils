@@ -1,9 +1,0 @@
-e:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils2022.csproj.AssemblyReference.cache
-e:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils2022.csproj.CoreCompileInputs.cache
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\bin\Release\iUtils.dll
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\bin\Release\iUtils.pdb
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\bin\Release\Newtonsoft.Json.dll
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\bin\Release\Newtonsoft.Json.xml
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils2022.csproj.CopyComplete
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils.dll
-E:\Repository\VAR.RevitLib.Utils\iUtils2022\obj\Release\iUtils.pdb

@@ -390,7 +390,8 @@ public static class _Utils
     {
 
 #if R2019
-        return UnitUtils.Convert(d, DisplayUnitType.DUT_DECIMAL_FEET, DisplayUnitType.DUT_MILLIMETERS);
+        //return UnitUtils.Convert(d, DisplayUnitType.DUT_DECIMAL_FEET, DisplayUnitType.DUT_MILLIMETERS);
+        return double.NaN;
 
 #elif R2022
         return UnitUtils.Convert(d, UnitTypeId.Feet, UnitTypeId.Millimeters);
@@ -405,7 +406,8 @@ public static class _Utils
     public static double mmToFyt(double d)
     {
 #if R2019
-        return UnitUtils.Convert(d, DisplayUnitType.DUT_MILLIMETERS, DisplayUnitType.DUT_DECIMAL_FEET);
+        //return UnitUtils.Convert(d, DisplayUnitType.DUT_MILLIMETERS, DisplayUnitType.DUT_DECIMAL_FEET);
+         return double.NaN;
 
 #elif R2022
         return UnitUtils.Convert(d, UnitTypeId.Millimeters, UnitTypeId.Feet);
@@ -415,7 +417,8 @@ public static class _Utils
     public static double mmToFyt2(this double d)
     {
 #if R2019
-        return UnitUtils.Convert(d, DisplayUnitType.DUT_MILLIMETERS, DisplayUnitType.DUT_DECIMAL_FEET);
+        //return UnitUtils.Convert(d, DisplayUnitType.DUT_MILLIMETERS, DisplayUnitType.DUT_DECIMAL_FEET);
+         return double.NaN;
 #elif R2022
         return UnitUtils.Convert(d, UnitTypeId.Millimeters, UnitTypeId.Feet);
 #endif
@@ -424,7 +427,8 @@ public static class _Utils
     public static double FytTomm2(this double d)
     {
 #if R2019
-        return UnitUtils.Convert(d, DisplayUnitType.DUT_DECIMAL_FEET, DisplayUnitType.DUT_MILLIMETERS);
+        //return UnitUtils.Convert(d, DisplayUnitType.DUT_DECIMAL_FEET, DisplayUnitType.DUT_MILLIMETERS);
+         return double.NaN;
 
 #elif R2022
         return UnitUtils.Convert(d, UnitTypeId.Feet, UnitTypeId.Millimeters);
@@ -433,7 +437,8 @@ public static class _Utils
     public static double mmToFyt2(this int d)
     {
 #if R2019
-        return UnitUtils.Convert(d, DisplayUnitType.DUT_MILLIMETERS, DisplayUnitType.DUT_DECIMAL_FEET);
+        //return UnitUtils.Convert(d, DisplayUnitType.DUT_MILLIMETERS, DisplayUnitType.DUT_DECIMAL_FEET);
+         return double.NaN;
 #elif R2022
         return UnitUtils.Convert(d, UnitTypeId.Millimeters, UnitTypeId.Feet);
 #endif
@@ -442,7 +447,8 @@ public static class _Utils
     public static double FytTomm2(this int d)
     {
 #if R2019
-        return UnitUtils.Convert(d, DisplayUnitType.DUT_DECIMAL_FEET, DisplayUnitType.DUT_MILLIMETERS);
+        //return UnitUtils.Convert(d, DisplayUnitType.DUT_DECIMAL_FEET, DisplayUnitType.DUT_MILLIMETERS);
+         return double.NaN;
 #elif R2022
         return UnitUtils.Convert(d, UnitTypeId.Feet, UnitTypeId.Millimeters);
 #endif
@@ -452,7 +458,8 @@ public static class _Utils
     public static double FytAreatoMeters(double a)
     {
 #if R2019
-        return UnitUtils.Convert(a, DisplayUnitType.DUT_SQUARE_FEET, DisplayUnitType.DUT_SQUARE_METERS);
+        //return UnitUtils.Convert(a, DisplayUnitType.DUT_SQUARE_FEET, DisplayUnitType.DUT_SQUARE_METERS);
+         return double.NaN;
 #elif R2022
         return UnitUtils.Convert(a, UnitTypeId.SquareFeet, UnitTypeId.SquareMeters);
 #endif
@@ -460,7 +467,8 @@ public static class _Utils
     public static double MetersAreatoFyt(double a)
     {
 #if R2019
-        return UnitUtils.Convert(a, DisplayUnitType.DUT_SQUARE_METERS, DisplayUnitType.DUT_SQUARE_FEET);
+        //return UnitUtils.Convert(a, DisplayUnitType.DUT_SQUARE_METERS, DisplayUnitType.DUT_SQUARE_FEET);
+         return double.NaN;
 #elif R2022
         return UnitUtils.Convert(a, UnitTypeId.SquareMeters, UnitTypeId.SquareFeet);
 #endif
